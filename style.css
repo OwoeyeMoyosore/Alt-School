@@ -1,0 +1,8 @@
+img[src]{
+    border : 3px solid red;
+}
+a:hover{
+    color: #000000;
+    text-decoration: none;
+}
+/* Comments in CSS and HTML: Ctrl Key + ? */
